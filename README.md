@@ -10,4 +10,4 @@ This is the implementaion code for the blog I have written '[How to create your 
     
 ##### deployed app : https://mahabharathi.github.io/me/
 
-##### Refered from :https://github.com/dbarochiya/me
+##### Reference    :https://github.com/dbarochiya/me
